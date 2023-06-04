@@ -3,4 +3,4 @@ export const {
     GenerateAuthChallenge,
     ClientPublicKey,
     PackageVerify
-} = require('./node-vatsimauth.node');
+} = require('node-vatsimauth.node');
