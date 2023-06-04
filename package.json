@@ -1,0 +1,29 @@
+{
+  "name": "vatsim-auth-node",
+  "version": "1.0.0",
+  "description": "Packaged VatsimAuth.dll bundle of node addon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericple/vatsim-auth-node.git"
+  },
+  "keywords": [
+    "vatsim",
+    "auth",
+    "encrypt",
+    "node",
+    "c++"
+  ],
+  "author": "Ericple Garrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ericple/vatsim-auth-node/issues"
+  },
+  "homepage": "https://github.com/Ericple/vatsim-auth-node#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
