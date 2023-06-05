@@ -4,6 +4,12 @@ You need to obtain VatsimAuth.dll to use this package, it is not provided here a
 
 # Usage
 
+- Install
+
+```bash
+npm install vatsim-auth-node
+```
+
 - After you get your VatsimAuth.dll, place it right in the entry point of your project.
 
 For example, this is the structure of a project using vatsim-auth-node package:
