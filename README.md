@@ -1,12 +1,14 @@
 # vatsim-auth-node
 
+vatsim-auth-node pakcage is vatsim auth interface for node.js project. It makes your node.js (Electron for example) application be able to connect to vatsim network with your permission.
+
 You need to obtain VatsimAuth.dll to use this package, it is not provided here as "The VatsimAuth source code is proprietary, and VatsimAuth is not distributed under any license terms. All rights are reserved. Specifically, you may not distribute copies of VatsimAuth."
 
 # Usage
 
 - Install
 
-```bash
+```ps
 npm install vatsim-auth-node
 ```
 
